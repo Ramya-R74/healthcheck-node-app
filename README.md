@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HealthCheckPro_Infosys_Internship_Oct2024_Team_03
 Health Check Pro is a user-friendly health website built using the MERN stack
 
@@ -221,3 +222,7 @@ server/
         <td><img src="assets/report3.png" /></td>
     </tr>
 </table>
+=======
+# healthcheck-node-app
+Health Check Pro is a user-friendly health website built using the MERN stack
+>>>>>>> 9b321f1f17a579a86df4b8a2791bdd8751efee27
